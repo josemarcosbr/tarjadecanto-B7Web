@@ -1,0 +1,24 @@
+#tarja {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 68px;
+    background-color: #3D7DC2;
+    rotate: -45deg;
+    margin-top:  35px;
+    margin-left: -140px;
+    box-shadow: 5px 0px 5px 6px #dfe1e5
+}
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D7DC2;
+    width: 400px;
+    height: 60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+}
